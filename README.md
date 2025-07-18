@@ -1,22 +1,6 @@
 # Exploding Image Gallery 🖼️
 
-A beautiful and ## 🔒 Validation
-- ✨ Animation performance checks
-- 📱 Responsive layout validation
-- 🖥️ Cross-browser testing
-- ⚡ Load time optimization
-- 🎯 Interaction validation
-
-## 🎨 Customization
-You can customize:
-- 🎨 Colors and gradients in `style.css`
-- 📐 Gallery layout and spacing
-- ⚡ Animation timing and effects
-- 🌫️ Glass effect properties
-- 💫 Transition behaviors
-
-## 📄 License
-This project is licensed under the MIT License.allery with an expanding animation effect. When users click on an image, it smoothly expands while maintaining the overall layout harmony.
+A beautiful and interactive image gallery with an expanding animation effect. When users click on an image, it smoothly expands while maintaining the overall layout harmony.
 
 ## ️ Tech Stack
 - 🌐 HTML5
@@ -26,7 +10,7 @@ This project is licensed under the MIT License.allery with an expanding animatio
   - 🎛️ CSS Variables
   - ✨ Transform & Transitions
   - 🌫️ Backdrop Filter
-- ⚙️ Vanilla JavaScript
+- ⚙️ JavaScript
 
 ## 📁 Project Structure
 ```
@@ -57,28 +41,20 @@ Gallery/
 - � Beautiful transitions
 - 🌟 Modern UI design
 
-### 📱 Responsive Design
-- 💻 Desktop optimized layout
-- 📱 Mobile-friendly interface
-- 🖥️ Multi-device support
-- 📐 Flexible grid system
+## 🔒 Validation
+- ✨ Animation performance checks
+- 📱 Responsive layout validation
+- 🖥️ Cross-browser testing
+- ⚡ Load time optimization
+- 🎯 Interaction validation
 
-## � Project Structure
-
-```
-├── index.html      # Main HTML file
-├── style.css       # CSS styles
-├── script.js       # JavaScript functionality
-└── img/           # Image directory
-    ├── dog.avif
-    ├── cat.avif
-    ├── hamster.avif
-    ├── owl.avif
-    ├── sheep.avif
-    ├── turtle.avif
-    ├── fish.avif
-    └── goat.avif
-```
+## 🎨 Customization
+You can customize:
+- 🎨 Colors and gradients in `style.css`
+- 📐 Gallery layout and spacing
+- ⚡ Animation timing and effects
+- 🌫️ Glass effect properties
+- 💫 Transition behaviors
 
 ## 📄 License
 This project is licensed under the MIT License.
