@@ -2,7 +2,7 @@
 
 A beautiful and interactive image gallery with an expanding animation effect. When users click on an image, it smoothly expands while maintaining the overall layout harmony.
 
-## ️ Tech Stack
+## 🛠️ ️Tech Stack
 - 🌐 HTML5
 - 🎨 CSS3
   - 📐 Flexbox
