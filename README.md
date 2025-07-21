@@ -12,29 +12,8 @@ A beautiful and interactive image gallery with an expanding animation effect. Wh
   - 🌫️ Backdrop Filter
 - ⚙️ JavaScript
 
-## 📁 Project Structure
-```
-Gallery/
-├── index.html     # Main HTML file
-├── style.css      # Modern styling and animations
-├── script.js      # Core functionality
-└── img/          # Image directory
-    ├── dog.avif
-    ├── cat.avif
-    ├── hamster.avif
-    ├── owl.avif
-    ├── sheep.avif
-    ├── turtle.avif
-    ├── fish.avif
-    └── goat.avif
-```
-
-## 🚀 Setup
-1. 📥 Clone the repository
-2. 📂 Open `index.html` in your browser
-3. 🖱️ Start exploring the gallery!
-
 ## ⭐ Features
+
 ### 🎨 Gallery Features
 - 🔄 Smooth expansion animation
 - ✨ Interactive hover effects
